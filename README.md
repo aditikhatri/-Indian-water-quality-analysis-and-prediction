@@ -41,6 +41,7 @@ https://www.kaggle.com/anbarivan/indian-waterquality-data
 
 The **WQI**, which is calculated using several parameters that affect WQ , was used
 to measure water quality.
+
 ![image](https://user-images.githubusercontent.com/63184114/135417379-20c3cd2f-e17e-40c2-bbcb-ec43c5252be0.png)
 
 
