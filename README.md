@@ -76,7 +76,6 @@ formula:
 Ml model can be developed to predict `WQI` by selecting
 important parameters from a standard dataset.Precited using machine learning model .
 
-![image](https://user-images.githubusercontent.com/63184114/135418099-d9ad39b4-48b6-4643-af97-7e8e3f8f97f9.png)
 
 The system will help reduce people’s consumption of poor-quality water and
 consequently curtail horrific diseases such as typhoid and diarrhea. In this case, our
