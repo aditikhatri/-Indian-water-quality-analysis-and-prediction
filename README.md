@@ -24,7 +24,7 @@ changes in water quality . They can immensely improve the efficiency of aquacult
 
 ## Data set
  The datasets employed to conduct the research were acquired from different locations
-in India and contained 1679 simples from 666 different sources of rivers and lakes in
+in India and contained 1679 simples from 666 different sources of rivers,lakes and water bodies in
 the country. The data was collected between 2005 and 2014 .
 
 The link to the datasets is attached.
