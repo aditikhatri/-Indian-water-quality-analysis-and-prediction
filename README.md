@@ -166,6 +166,10 @@ and devising rational strategies to prevent and regulate water contamination.
 
 ## usage
 👓
+> Can be used to predict WQI by selecting important parameters from a standard dataset precited using machine learning model .
+> 
+> The robustness and efficiency of the proposed model in predicting WQI can be examined in futureworks.
+
 
 ## References
 🔖
