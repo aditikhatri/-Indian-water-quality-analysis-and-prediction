@@ -162,7 +162,7 @@ and devising rational strategies to prevent and regulate water contamination.
 >
 > ![pandas-1](https://user-images.githubusercontent.com/63184114/137870971-fd20b30c-905a-46f7-a0a3-45e9349c0c3c.png)
 
-### check out [here]( https://www.utc.fr/~jlaforet/Suppl/python-cheat) for more cheatsheets
+### check out [here]( https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) for more cheatsheets
 
 ## usage
 👓
