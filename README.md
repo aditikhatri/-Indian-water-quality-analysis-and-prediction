@@ -96,6 +96,10 @@ and devising rational strategies to prevent and regulate water contamination.
 
 ## process-flow
 🎞️
+> The dataset will be analyzed in the following manner.
+
+ ![image](https://user-images.githubusercontent.com/63184114/137891107-ebe26789-bd93-4724-8192-45a7d82dea85.png)
+
 
 
   
