@@ -1,8 +1,14 @@
 
 # Indian water quality analysis and prediction
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+
 With fast economic growth and increased urbanization, water pollution has become grimmer. Understanding the issues and patterns of water quality is also critical for water
 pollution reduction and regulation .
+
+<p align="center">
+ <img src="https://lh3.googleusercontent.com/proxy/zkWT3tEhfkHcxZWSlaFWlqU4sMEB5nLqA78s1RoHobFiduVunqbzjtz4lZ0ngh73n6RfCKDEg0g1z8slwdV-PNrMy5ihvZMK7e_WDnOBo8g9gpMwqzjQd9za9dkuS_WSt3aDYzObQg" height="300" width="600">
+</p>
 
 ## Overview
 
