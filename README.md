@@ -135,8 +135,8 @@ and devising rational strategies to prevent and regulate water contamination.
 ## model-used
 🤖
 > The output is given certain factors involved in calculation.
-> 
-> The accuracy of the current output prediction is greater than 90%.
+<!-- > 
+> The accuracy of the current output prediction is greater than 90%. -->
 > 
 > The model is being trained using Linear Regression algorithm.
 > 
