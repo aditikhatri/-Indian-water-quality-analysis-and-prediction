@@ -173,6 +173,7 @@ and devising rational strategies to prevent and regulate water contamination.
 > https://ieeexplore.ieee.org/document/7944943/metrics#metrics
 >
 > https://www.mdpi.com/2071-1050/13/8/4259/pdf
-
+>
+> https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
 
 <!-- https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf -->
