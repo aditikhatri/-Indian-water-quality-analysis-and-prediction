@@ -143,7 +143,7 @@ and devising rational strategies to prevent and regulate water contamination.
 > Ml model can be developed to predict `WQI` by selecting important parameters from a standard dataset precited using machine learning model .
 
 ## library-cheatsheet
-🚧
+
 
 ### Numpy
 > ![numpy-1](https://user-images.githubusercontent.com/63184114/137870797-9ded67fb-a84e-498e-80f8-e590e611d016.png)
