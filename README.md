@@ -7,7 +7,7 @@ With fast economic growth and increased urbanization, water pollution has become
 pollution reduction and regulation .
 
 <p align="center">
- <img src="https://lh3.googleusercontent.com/proxy/pFVCzKVJ_l8S2sJyks5TeNAQ3yv7jFGo8gkGHGctgpuDCluzlcByC8taW1BNx9Ik9qocklkRQI9Q-QNc6s9LdQmxRPXprNCPcSHZq6huf6-_LUJLe-8vZtosjhiOl3XW9H3PSfxXtg" height="300" width="600">
+ <img src="water.jpg" height="300" width="600">
 </p>
 
 ## Overview
