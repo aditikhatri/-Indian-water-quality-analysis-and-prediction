@@ -40,7 +40,7 @@ pollution reduction and regulation .
       <a href="#predicted-output">Predicted Output</a>
     </li>
     <li>
-      <a href="#library-cheatsheet">Libraries</a>
+      <a href="#library">Libraries</a>
     </li>
      <li>
       <a href="#usage">How to use</a>
@@ -93,6 +93,15 @@ and devising rational strategies to prevent and regulate water contamination.
 > <p align="center">
   <img src="https://user-images.githubusercontent.com/63184114/137864880-dbc85965-db01-409b-8681-1a776e42d000.png">
   </p>
+  
+#### Importing Dataset
+```
+df=pd.read_csv('water_potability.csv')
+```
+If your notebook and csv files are in different places you can write the whole path to import the file.
+```
+df=pd.read_csv('../input/water-potability/water_potability.csv')
+```
 
 ## process-flow
 🎞️
@@ -152,17 +161,17 @@ and devising rational strategies to prevent and regulate water contamination.
 > 
 > Ml model can be developed to predict `WQI` by selecting important parameters from a standard dataset precited using machine learning model .
 
-## library-cheatsheet
-
-
-### Numpy
-> ![numpy-1](https://user-images.githubusercontent.com/63184114/137870797-9ded67fb-a84e-498e-80f8-e590e611d016.png)
->
-### Pandas
->
-> ![pandas-1](https://user-images.githubusercontent.com/63184114/137870971-fd20b30c-905a-46f7-a0a3-45e9349c0c3c.png)
-
-### check out [here]( https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) for more cheatsheets
+## library
+📚
+> [`numpy`](https://numpy.org/doc/stable/)  adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+> 
+> [`matplotlib`](https://matplotlib.org/stable/) is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
+> 
+> [`scipy`](https://scipy.github.io/devdocs/index.html) is used for scientific computing and technical computing. It contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks.
+> 
+> [`pandas`](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) is for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+> 
+> [`sklearn`](https://scikit-learn.org/stable/) or scikit-learn features various classification, regression and clustering algorithms and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
 ## usage
 👓
@@ -177,7 +186,6 @@ and devising rational strategies to prevent and regulate water contamination.
 > https://ieeexplore.ieee.org/document/7944943/metrics#metrics
 >
 > https://www.mdpi.com/2071-1050/13/8/4259/pdf
->
-> https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+
 
 <!-- https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf -->
