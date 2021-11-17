@@ -140,16 +140,15 @@ df=pd.read_csv('../input/water-potability/water_potability.csv')
 
 ## data-visualization
 👀
-
+> The data has been analyzed using the following 3 methods:
+> 
+> 1. [Zoho Analytics]()
+> 
+> 2. [Google Spreadsheets]()
+> 
 ## model-used
 🤖
-> The output is given certain factors involved in calculation.
-<!-- > 
-> The accuracy of the current output prediction is greater than 90%. -->
-> 
-> The model is being trained using Linear Regression algorithm.
-> 
-> The target variable is `WQI`.
+
 
   
 ## predicted-output
