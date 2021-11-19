@@ -109,6 +109,7 @@ Step 1)
 data.info()
 ```
 <img src = "/eda1.png">
+
 Step 2) converting all non-numerical values to NaN
 ```
 data['Temp']=pd.to_numeric(data['Temp'],errors='coerce')
