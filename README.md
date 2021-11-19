@@ -103,6 +103,35 @@ If your notebook and csv files are in different places you can write the whole p
 df=pd.read_csv('../input/water-potability/water_potability.csv')
 ```
 
+#### Exploratory Data Analysis
+Step 1)
+```
+data.info()
+```
+<img src = "/eda1.png">
+Step 2) converting all non-numerical values to NaN
+```
+data['Temp']=pd.to_numeric(data['Temp'],errors='coerce')
+data['D.O. (mg/l)']=pd.to_numeric(data['D.O. (mg/l)'],errors='coerce')
+data['PH']=pd.to_numeric(data['PH'],errors='coerce')
+data['B.O.D. (mg/l)']=pd.to_numeric(data['B.O.D. (mg/l)'],errors='coerce')
+data['NITRATENAN N+ NITRITENANN (mg/l)']=pd.to_numeric(data['NITRATENAN N+ NITRITENANN (mg/l)'],errors='coerce')
+data['TOTAL COLIFORM (MPN/100ml)Mean']=pd.to_numeric(data['TOTAL COLIFORM (MPN/100ml)Mean'],errors='coerce')
+data.dtypes
+```
+Step 3) Checking for NaN Values and removing them
+```
+data.isna()
+data = data.dropna()
+```
+Step 4) Making the data more presentable and formatting columns
+```
+data=pd.concat([station,location,state,do,ph,co,bod,na,tc,year],axis=1)
+data. columns = ['station','location','state','do','ph','co','bod','na','tc','year']
+```
+Step 5) Used MS Excel to do intensive formating in various columns. <br> (Example - There were multiple spelling of same states such as Orissa, Odhisha and Orisha.)
+
+
 ## process-flow
 🎞️
 > The dataset will be analyzed in the following manner.
