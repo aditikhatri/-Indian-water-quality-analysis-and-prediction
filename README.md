@@ -149,6 +149,15 @@ df=pd.read_csv('../input/water-potability/water_potability.csv')
 ## model-used
 🤖
 
+After EDA and extensive Data Cleaning, we have implemented ARIMA (Autoregrssive Integrated Moving Average) Time Series forcasting for Water Quality Index.
+It's used in statistics and econometrics to measure events that happen over a period of time. The model is used to understand past data or predict future data in a series.
+Model Performance - <br>
+<img src = "/arimares.png">
+<img src = "/arimaresgraphs.png">
+<br>
+However, after this to improve upn the model, we implemented Rolling forecast ARIMA (Autoregrssive Integrated Moving Average) model. Further Evaluation was done using walk forward validation and then the forcasts were evaluated.
+
+
 
   
 ## predicted-output
