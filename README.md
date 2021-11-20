@@ -1,8 +1,6 @@
 
 # Indian water quality analysis and prediction
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-
 With fast economic growth and increased urbanization, water pollution has become grimmer. Understanding the issues and patterns of water quality is also critical for water
 pollution reduction and regulation .
 
@@ -60,7 +58,8 @@ pollution reduction and regulation .
 > Strategies for the prevention and regulation of water contamination can be developed by predicting future changes in water safety at varying levels of contamination
 and devising rational strategies to prevent and regulate water contamination.
 
-> Designated Best Use	Class of Water	Criteria
+Designated Best Use	Class of Water	Criteria - 
+> According to Central Pollution Control Board,Inland  surface water is categorised in 4 different categories, on the basis of use as shown in the table below - 
 <table>
  <th> Designated Best Use </th>
  <th> Class of Water </th>
