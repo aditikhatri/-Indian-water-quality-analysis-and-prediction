@@ -204,8 +204,8 @@ Step 5) Used MS Excel to do intensive formating in various columns. <br> (Exampl
 👀
 > The data has been analyzed using Tableau
 >  You may use the interactive dashboard by opening the file Water "Quality Analysis.twb" in the tableau app and attatch the file "cleaneddata.xlsm" <br> 
->  (make sure to keep the macros on)
->  A visual repesentation of what the dashboard looks like - 
+>  (make sure to keep the macros on) <br>
+>  A visual repesentation of what the dashboard looks like - <br>
 >  <img src = "tableau.png">
 
 
