@@ -22,15 +22,16 @@ pollution reduction and regulation .
     <li>
       <a href="#dataset">Dataset</a>
     </li>
+   <li>
+      <a href="#data-visualization">Data Visualization</a>
+    </li>
     <li>
       <a href="#process-flow">Process Flow</a>
     </li>
     <li>
        <a href="#calculations">Calculations</a>
      </li>
-    <li>
-      <a href="#data-visualization">Data Visualization</a>
-    </li>
+    
     <li>
       <a href="#model-used">Model Used</a>
     </li>
@@ -199,6 +200,10 @@ data. columns = ['station','location','state','do','ph','co','bod','na','tc','ye
 ```
 Step 5) Used MS Excel to do intensive formating in various columns. <br> (Example - There were multiple spelling of same states such as Orissa, Odhisha and Orisha.)
 
+## data-visualization
+👀
+> The data has been analyzed using Tableau
+
 
 ## process-flow
 🎞️
@@ -234,10 +239,6 @@ Step 5) Used MS Excel to do intensive formating in various columns. <br> (Exampl
 > 
 > ![image](https://user-images.githubusercontent.com/63184114/135417566-35347cc4-0b6d-4ee0-bbde-2b379fe1f850.png)
 > 
-
-## data-visualization
-👀
-> The data has been analyzed using Tableau
 
 ## model-used
 🤖
