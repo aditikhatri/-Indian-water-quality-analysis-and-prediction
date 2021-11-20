@@ -11,7 +11,7 @@ pollution reduction and regulation .
 ## Overview
 
 <details open="open">
-  <summary>Contents</summary>
+  <summary>Contents </summary>
   <ul>
     <li>
       <a href="#problem-statement">Problem Statement</a>
@@ -30,8 +30,7 @@ pollution reduction and regulation .
     </li>
     <li>
        <a href="#calculations">Calculations</a>
-     </li>
-    
+    </li>
     <li>
       <a href="#model-used">Model Used</a>
     </li>
