@@ -237,12 +237,8 @@ Step 5) Used MS Excel to do intensive formating in various columns. <br> (Exampl
 
 ## data-visualization
 👀
-> The data has been analyzed using the following 3 methods:
-> 
-> 1. [Zoho Analytics]()
-> 
-> 2. [Google Spreadsheets]()
-> 
+> The data has been analyzed using Tableau
+
 ## model-used
 🤖
 
