@@ -60,6 +60,74 @@ pollution reduction and regulation .
 > Strategies for the prevention and regulation of water contamination can be developed by predicting future changes in water safety at varying levels of contamination
 and devising rational strategies to prevent and regulate water contamination.
 
+> Designated Best Use	Class of Water	Criteria
+<table>
+ <th> Designated Best Use </th>
+ <th> Class of Water </th>
+ <th> Criteria </th>
+ <tr> 
+   <td>
+  Drinking water Source without Conventional treatment but after disinfections.
+   </td>
+  <td>
+ A
+   </td>
+  <td>
+1.    Total coliform organisms MPN/100 ml shall be 50(max.) <br>
+2.   pH between 6.5 to 8.5 <br>
+3.    Dissolved Oxygen (Min) 6 mg/l <br>
+4.    BOD (max) 5 days < 2.00 mg/l <br>
+   </td>
+ </tr>
+ 
+  <tr> 
+   <td>
+Outdoor bathing(Organised)
+   </td>
+  <td>
+ B
+   </td>
+  <td>
+1.    Total coliform organisms MPN/100 ml shall be 500 (max.)<br>
+2.    Fecal Coliform MPN/100 mg. to be 2500 (max.) for Ganga Action Plan.<br>
+3.   pH between 6.8 to 8.5.<br>
+4.    Dissolved Oxygen (min) 4 mg/l <br>
+5.    BOD (Max.) 5 days @ 3 mg/l <br>
+   </td>
+ </tr>
+ 
+ <tr> 
+   <td>
+Drinking water with conventional treatment Followed by disinfections
+   </td>
+  <td>
+ C
+   </td>
+  <td>
+1.    Total coliform organisms MPN/100 ml shall be 5000 (max.) <br>
+2.    PH between 6.8 to 8.5 <br>
+3.    Dissolved Oxygen (min) 4 mg/l <br>
+4.    BOD (max.) 5 days @ 3 mg/l <br>
+   </td>
+ </tr>
+ 
+ <tr> 
+   <td>
+Propagation of wild life Fisheries.
+   </td>
+  <td>
+ D
+   </td>
+  <td>
+1.    pH between 6.5 to 8.5 <br>
+2.    Dissolved Oxygen (min) 4 mg/l. <br>
+3.    Free Ammonia (as N) (max)1.2mg/l. <br>
+   </td>
+ </tr>
+ 
+</table>
+
+
 ## objective
 🎯
 
